@@ -34,20 +34,6 @@ h1{
     color: rgb(255, 255, 255);
     text-shadow: 2px 2px 2px rgb(80, 104, 76);
 }
-.barra nav {
-    width: 100%;
-    margin-left: 50%;
-    margin-bottom: 20px;
-    border-radius: 10px;
-    text-align: center;
-    color: #fff;
-    background-color: #1d7151;
- 
-}
-.barra a{
-    color: #fff;
-    text-decoration: none;
-}
 body{
     margin: 10px;
     background-color: whitesmoke;
@@ -115,6 +101,21 @@ footer{
     background-color: rgb(255, 255, 255);
     border: 2px solid green;
     font-size: 18px;
+}
+/*IR DE UMA PAGINA PRA OUTRA (FORMATAÇAO)*/
+.barra nav {
+    width: 100%;
+    margin-left: 50%;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    text-align: center;
+    color: #fff;
+    background-color: #1d7151;
+ 
+}
+.barra a{
+    color: #fff;
+    text-decoration: none;
 }
 /*Formatando a barra de navegação*/
 ul.nav2 {

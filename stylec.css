@@ -1,0 +1,245 @@
+h1 {
+    text-shadow: 5px 10px 20px rgb(40, 40, 107);
+    color: rgb(25, 25, 35);
+    font-size: 55px;
+    text-align: center;
+}
+
+body {
+    background-color: bisque;
+}
+
+.texto {
+    font-size: medium;
+    width: 80%;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #000;
+    text-align: justify;
+}
+
+.container {
+    background-color: #E0F257;
+    display: flex; flex-wrap: wrap;
+    border: 5px black solid; width: 100%; height: 450px;
+}
+
+.bloco {
+    width: 60%;
+    display: flex;
+    justify-content: center;
+}
+
+.foto-clima {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.foto-clima img {
+    display: flex;
+    flex-wrap: wrap;
+    width: 300px;
+    height: 300px;
+}
+
+.imgs {
+    width: 40%;
+    height: 30px;
+}
+
+.hh {
+    background-color: bisque;
+    text-align: center;
+    font-size: 35px;
+    border: 4px black solid;
+    display: flex;
+    justify-content: center;
+}
+
+/* formatacao bloco 2 */
+
+.flex-globo {
+    display: flex;
+    justify-content: center;
+    width: 100vw;
+    height: 400px;
+    margin-bottom: 50px;
+}
+
+.container2 {
+    background-color: #EFF294;
+    display: flex;
+    justify-content: center;
+    border: 5px black solid;
+    
+}
+
+.texto2 {
+    width: 50%;
+    height: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: medium;
+    color: #000;
+    text-align: justify;
+}
+
+.bloco2 {
+    width: 65%;
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 30px;
+    padding-left:120px;
+}
+
+.bloco2 p{
+    width: 70%;
+}
+
+.imgs2 {
+    display: flex;
+    justify-content: center;
+    width: 35%;
+    height: 50px;
+   
+}   
+
+.gif-clima {
+    display: flex;
+    flex-wrap: nowrap;
+    margin-right: 50px;
+}
+
+.gif-clima img {
+    display: flex;
+    flex-wrap: wrap;
+    width: 500px;
+    height: 390px;
+    position: relative; left: 20px;
+}
+
+/* formatacao bloco 3 */
+
+
+.container3 {
+    background-color: #C1D96C;
+    display: flex; 
+    flex-wrap: wrap;
+    border: 5px black solid;
+    width: 50%;
+    height: 570px;
+}
+
+.bloco3 {
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    display: flex;
+}
+
+.texto3 {
+    text-align: justify;
+    width: 80%;
+    height: 75%;
+    font-size: medium;
+    color: #000;
+}
+
+
+
+.titulo3 {
+    width: 100%;
+    height: 15%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h3 {
+    font-size: 30px;
+    display: flex;
+    align-items: center;
+}
+
+
+/* formatacao bloco 4 */
+
+.container4 {
+    background-color: #C1D96C;
+    width: 50%;
+    height: 570px;
+    border: 5px black solid;
+}
+
+.bloco4 {
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    display: flex;
+}
+
+.titulo4 {
+    width: 100%;
+    height: 15%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.texto4 {
+    text-align: justify;
+    width: 80%;
+    height: 75%;
+    font-size: medium;
+    color: #000;
+}
+
+.caixa-dupla {
+    background-color: crimson;
+    width: 100%;
+    display: flex;
+}
+
+.imagem-clima {
+    display: flex;
+    justify-content: center;  
+    height: 1100px;
+    width: 100%;
+}
+
+.imagem-clima img {
+    border: 5px black solid;
+    width: 1200px;
+    height: 900px;
+}
+
+/* parte 4 */
+
+.titulo5 {
+    font-size: 45px;
+    text-align: center;
+}
+
+.bloco5 {
+    font-size: large;
+    color: #000;
+    
+}
+
+.solucoes {
+    background-color: #768C54;
+    border: 5px #000 solid;
+    height: 2200px;
+}
+
+ul {
+    font-size: larger;
+    text-shadow: #444 5px 5px 5px;
+}
+
+footer {
+    background-color: #7e381f;
+    font-size: 30px;
+    margin-top: 70px;
+    text-align: center;
+}
